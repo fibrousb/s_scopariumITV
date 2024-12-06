@@ -1,0 +1,14 @@
+﻿"Metadata for data repository for Zeldin et. Al  ""Intraspecific trait variation and coordination in Schizachyrium scoparium""",,
+"Data file: ""s_scoparium_ITC_whole_plant_data.csv""",,
+,,
+Column,Units,Description
+population,NA,"Population membership - full populations labels corrsespond to manuscript population codes as follow: DRUMLIN = A, ALBANY = B, HOSAH = C, NACH-PP = D1, NACH-IK = D2"
+genotype,NA,Genotype membership - arbitrary numerical code specifying plant genotypes within population
+individual,NA,Inidividual code - arbitrary numerical code distinguising individuals (clones) within genotype
+uniq_gen,NA,Unique genotype identifier - concatenated population and genotype codes to distinguish unique genotypes
+ldmc_av,mg/g,"Leaf dry matter content (LDMC) - ratio of leaf dry mass (mg, dried at 60°C for 72 hours) to leaf fresh mass (g), averaged across five leaves per individual plant"
+sla_av,mm2/mg,"Specific leaf area (SLA) - ratio of leaf area (mm2) to leaf dry mass (mg, at 60°C for 72 hours), averaged across five leaves per individual plant"
+rdmc,mg/g,Root dry matter content (RDMC) - ratio of dry root mass(mg) to fresh root mass (g)
+root_diam,mm,Average root diamter (mm) of skeletonized root system as measured by RhizoVision explorer
+srl,m/g,"Specific root length - total root length (m) of the skeletonized root system as measured by RhizoVision explorer, divided by the total dry root mass (g)"
+C_N_ratio,unitless ratio,"Ratio of total dry leaf C and leaf N, measured via combustion by an elemental analyzer (Elementar vario ISOTOPE cube). Values refelect CN ratio of leaf samples pooled across five leaves per individual plant"
